@@ -1,4 +1,8 @@
 <p align="center">
+  Welcome to the tip of the 1ceb3rg_
+</p>
+
+<p align="center">
   <img src="img/darkokabe.png" alt="darkokabe" width="200"/>
 </p>
 
